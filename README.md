@@ -1,3 +1,7 @@
+# NOTE:
+
+This sample was inspired by [SAP Risk Management example](https://github.com/SAP-samples/cloud-cap-risk-management) and modified to allow SQLite to work properly on Kyma.
+
 # Welcome
 
 Welcome to this tutorial for application development on SAP Business Technology Platform (SAP BTP). We provide information and examples on how to develop and deploy an application based on [SAP Cloud Application Programming Model (CAP)](https://cap.cloud.sap/) on SAP BTP using different tools and services step by step.
